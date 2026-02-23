@@ -1,0 +1,4 @@
+https://f-droid.org/repo/com.termux_1022.apk
+git clone https://github.com/openwall/john -b bleeding-jumbo
+https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+pkg install zip
